@@ -1,8 +1,4 @@
-# Petful-server
 
-See this app live at: <br/>
-client Repo https://github.com/thinkful-ei-gecko/Phoebe-Nandana-Petful-Client<br/>
-API Repo https://github.com/thinkful-ei-gecko/Phoebe-Nandana-Petful-Server<br/>
 
 ## App 
 
